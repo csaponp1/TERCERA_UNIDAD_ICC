@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    
+    color: #FFF;
+    background: -moz-radial-gradient(salmon, silver, black);   
+    background: -webkit-radial-gradient(salmon, silver, black);   
+    background: -ms-radial-gradient(salmon, silver, black);   
+}
+
+/*
+div.first {
+    height: 150px;
+    width: 200px;
+    color: #FFF;
+    background: -moz-radial-gradient(green, yellow, blue);   
+    background: -webkit-radial-gradient(green, yellow, blue);
+    background: -ms-radial-gradient(green, yellow, blue);
+}
+*/
+/*
+div.second {
+    height: 150px;
+    width: 200px;
+    color: #FFF;
+    background: -moz-radial-gradient(circle, green, yellow, blue); 
+    background: -webkit-radial-gradient(circle, green, yellow, blue); 
+    background: -ms-radial-gradient(circle, green, yellow, blue); 
+}
+*/

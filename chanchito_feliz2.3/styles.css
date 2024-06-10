@@ -1,0 +1,11 @@
+.fondo{
+    float: left;
+    width: 300px;
+    height: 100px;
+    margin: 4px;
+    color: #FFF;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(255,238,88,1) 0%, 
+    rgba(255,167,38,1) 100%);
+}
+
